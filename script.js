@@ -121,7 +121,7 @@
     submitButton.disabled = true;
 
     try {
-      await fetch('https://script.google.com/macros/s/AKfycbz96cEfcv6tdQ6qADQhengTAIuEtCt2gZFAWQfJkgp32HSxAvusIyQCvqKo0zDUjW3j/exec', {
+      await fetch('https://script.google.com/macros/s/AKfycbz8LdAqxb0VahrFLAFYFkr67t5tMiCFTPv8ETqJO2mnIHCSCn3QoKuI-JZJVDk6oq4U/exec', {
         method: 'POST',
         mode: 'no-cors',
         headers: { 'Content-Type': 'application/json' },
